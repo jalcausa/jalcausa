@@ -1,16 +1,16 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Juan Carlos 💻</h1>
+<h3 align="center">A Computer Engineer student</h3>
 
-<!--
-**jcalcausal/jcalcausal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,haskell,git,raspberrypi,vscode,eclipse,idea" />
+  </a>
+</p>   
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![jcalcausal's GitHub stats](https://github-readme-stats.vercel.app/api?username=jcalcausal&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jcalcausal&show_icons=true&theme=radical)
+
+</div>
