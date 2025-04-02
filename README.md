@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=jalcausa&show_icons=true&theme=radical&cache_seconds=86400)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jalcausa&show_icons=true&theme=radical&cache_seconds=86400)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalcausa&show_icons=true&theme=radical&cache_seconds=86400&hide=Makefile,CMake&langs_count=8&layout=donut)
 
