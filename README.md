@@ -11,6 +11,6 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=jalcausa&show_icons=true&theme=radical&cache_seconds=86400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalcausa&show_icons=true&theme=radical&size_weight=0.85&count_weight=0.15&cache_seconds=86400&hide=Makefile,CMake&langs_count=8&layout=pie)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jalcausa&show_icons=true&theme=radical&size_weight=0.85&count_weight=0.15&cache_seconds=86400&hide=Makefile,CMake, SCSS&langs_count=8&layout=pie)
 
 </div>
