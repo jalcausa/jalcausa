@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Juan Carlos 💻</h2>
-<h3 align="center">Computer Engineering student</h3>
+<h3 align="center">Computer Science student</h3>
 
 <p align="center">
   <a href="#">
