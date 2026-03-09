@@ -55,4 +55,4 @@ Currently, I am a **Cybersecurity GRC Analyst Trainee at Mercedes-Benz**, focusi
 
 * **B.Sc. in Computer Engineering** – Universidad de Málaga (In progress).
 * **42 Common Core** – 42 Málaga (Fundación Telefónica).
-* **Mathematics Degree** – 2 years completed (Focus on logic and analytical rigor).
+* **B.Sc. in Mathematics** – 2 years completed (Focus on logic and analytical rigor).
