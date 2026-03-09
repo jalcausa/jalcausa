@@ -14,10 +14,10 @@
 
 I am a **Computer Engineering** student at the University of Málaga with a strong analytical foundation from two years in **Mathematics**. I combine academic rigor with the hands-on, self-paced methodology of **42 Málaga (Fundación Telefónica)**.
 
-Currently, I am a **Cybersecurity GRC Analyst Trainee at Mercedes-Benz**, focusing on risk governance, vulnerability management, and ISOC security strategies. I am passionate about **Secure Development (DevSecOps)** and the **Security of AI models**.
+Currently, I am a **Cybersecurity GRC Analyst Trainee at Mercedes-Benz**, focusing on vulnerability management and data protection. I am passionate about **Secure Development (DevSecOps)** and the **Security of AI models**.
 
 * 🔭 **Working on:** Scaling security governance and vulnerability analysis at Mercedes-Benz Group Services Madrid.
-* 🛡️ **Security Focus:** GRC strategy, Risk Management, and Security by Design.
+* 🛡️ **Security Focus:** GRC strategy, Vulnerability Management, and process automatization.
 * 🧠 **Interests:** AI Security & Agents, Vulnerability Management, and AI integration for Legacy Systems optimization.
 * 🎓 **Trainer:** Lead trainer at the first Google-funded Cyber Bootcamp (UMA, Summer 2025).
 
